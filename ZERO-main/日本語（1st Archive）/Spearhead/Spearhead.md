@@ -16,6 +16,6 @@ aliases:
 - [[Dictionary]]
 - [[Video Games]]
 - [[Internet]]
-- [[日本語（1st Archive）/Spearhead/License/License]]
-- [[LICENSE]]
+- [[日本語（1st Archive）/Spearhead/License/License|License]]
+- [[ZERO-main/日本語（1st Archive）/Spearhead/License/License|License]]
 - [[README]]
