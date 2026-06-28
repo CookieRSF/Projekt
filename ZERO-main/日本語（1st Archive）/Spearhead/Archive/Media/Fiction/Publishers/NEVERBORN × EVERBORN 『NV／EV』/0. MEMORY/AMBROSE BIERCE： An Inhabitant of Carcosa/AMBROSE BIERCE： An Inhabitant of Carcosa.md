@@ -1,0 +1,11 @@
+WOMEN OF CARCOSA
+	- CARCOSA 
+	- CARISA：The Corpse Child 
+	- CARISA：The Curic Clown
+	- CARLITA：The Divine Daughter
+	- CARMINE
+	- CAROLINE
+	- CORALINE
+	- CATRINA
+	- CITRABEE
+	- CARRIE

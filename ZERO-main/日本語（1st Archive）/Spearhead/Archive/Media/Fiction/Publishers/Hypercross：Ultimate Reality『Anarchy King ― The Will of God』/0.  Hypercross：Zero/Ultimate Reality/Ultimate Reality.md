@@ -1,0 +1,72 @@
+---
+aliases:
+  - 究極の現実
+  - アルティメット・リアリティー
+---
+[[『Anarchy King』]]
+[[『The Will of God』]]
+
+- ROBERT W. CHAMBERS：The King in Yellow
+- H. P. LOVECRAFT：The Call of Cthulhu
+- AUGUST DERLETH：The Cthulhu Mythos
+- SUPERIOR ＆ INFERIOR
+- RIKAKO：LEADER × PAINTER 
+- YUNATA × POKKIRI × ???：Death × Apocalypse × Calamity
+- MILI × NORA × YUNATA：Sonic × Silence × Death
+- MILI × NAYUTA：Sonic × Myriad
+- MYRIAD × HYPERCROSS
+- YUKARI × YUKA × YUNATA × YUKA：Judgement × Jury × Execution × Justice
+- TRAITOR × REQUIEM
+- TATSUKI HIGASHIYAMA
+- EXTERMINATION DIVISION：Complete
+- ZOMBIES
+- QUARANTINE
+- FORBIDDEN ZONE
+- OUTSKIRTS
+- CARMINE
+- ARTEMIS
+- ORION
+- HYPERPUNK：Mercenary Gang
+- PESTILENCE ／ CONQUEST
+- MERCENARIES ＆ ASSASSINS
+- HYPERCROSS：The Center Singularity
+- INFESTATION：Pest Control
+- BAT × ETERNITY × KATANA × BOMB
+- SARAH × PIRI
+- SCARLET × SARAH × SERAPHIM × SIN × MEDUSA × BIOHAZARD 
+- UNDERCOVER SABOTAGE
+- RESTAURANT RENDEZVOUS：Charade × Masquerade
+- THE MASK：I Wear No Mask
+- INTERNATIONAL ASSASSINS
+- MERCENARY GANG：Arasaka
+- CLEAN-UP 
+- GUN × CONTROL
+- CONQUEST ／ PESTILENCE
+- CONQUEST ／ PESTILENCE × WAR × FAMINE × DEATH：Horsemen of the Apocalypse 
+- PROPHECY OF NOSTRADAMUS
+- JOHN MILTON：Paradise Lost
+- SCARLET ＆ LUCIFER
+- ATLAS：Weight of the World
+- SCARLET：Prime Condition
+- SHOKO vs. SCARLET
+- YUNATA vs. SCARLET
+- PIRI vs. SCARLET
+- Raven Rush ／ Raven Daze（ULTIMATE FICTION）
+- QueenーB Syndrome
+- ISAAC NEWTON：A Red Apple Fell From the Sky
+- ISAAC NEWTON：Discovery of Gravitation
+- EDGAR ALLAN POE：Eureka
+- EDGAR ALLAN POE：Lenore
+- EDGAR ALLAN POE：The Raven
+- CHARLES DARWIN：Theory of Evolution
+- 
+- CLAUDE DEBUSSY：Clair De Lune
+- FRÉDÉRIC CHOPIN：Nocturne，Op. 9：No. 2
+- FRÉDÉRIC CHOPIN：Fantazja-Impromptu
+- LUDWIG VAN BEETHOVEN：Moonlight Sonata
+- DANTE ALIGHIERI：The Divine Comedy
+- EVEN IN ARCADIA：There I Am
+- WITNESS OF CELESTE
+- HYPERCROSS：Police × Mercenaries × Assassins × Angels × Exterminators
+- AZAZEL：Angel Echo
+- NAYUTA：Apocalypse

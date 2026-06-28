@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"0. ARCHIVE/MISC\"  -path:日本語  -path:\"ENGLISH/SPEARHEAD/MEDIA/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN/HOTLINE 024/IMPOSSIBLE\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"【ENGLISH MEDIA】/PUSH ー SINGULARITY/HYPERCROSS：Ultimate Reality『ANARCHY KING ― THE WILL OF GOD』\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"【ENGLISH MEDIA】/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"【ENGLISH MEDIA】/PUSH ー SINGULARITY/UNAUTHORIZED REPRODUCTION ／ SUB ／ GRAY AREA ／ PUBLIC DOMAIN\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.0249937075258,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 1,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.24611146335478612,
+  "close": true
+}

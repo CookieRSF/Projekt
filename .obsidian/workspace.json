@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "eac1c0b01ed6c189",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1440637a4d9e204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eb53d3544b59360",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2b5c59f065b9536",
+    "type": "split",
+    "children": [
+      {
+        "id": "85fab6b9d43b2269",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64493c93359ccded",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "66e2b375d0b1c43a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "45c268ff9db03467",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 792.5
+  },
+  "right": {
+    "id": "68673220fbcfbd11",
+    "type": "split",
+    "children": [
+      {
+        "id": "77508dc915491542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bb75c1ce1dbcfb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "dde6f6600846b79f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "243c44421d14269e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "019a28d8964b71a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "342a8c056034f0f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6eb53d3544b59360",
+  "lastOpenFiles": [
+    "1/1.md",
+    "Untitled.md",
+    "1",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "Untitled 5.md",
+    "Untitled 6.md",
+    "Untitled 7.md",
+    "Untitled 8.md",
+    "Untitled 9.md",
+    "Untitled 10.md",
+    "Untitled 11.md",
+    "SCP Foundation Wiki/SCP Foundation Wiki.md",
+    "SCP Foundation Wiki/Catalogue/Catalogue.md",
+    "SCP Foundation Wiki/Catalogue/Suburb(i)an/Suburb(i)an.md",
+    "SCP Foundation Wiki/Catalogue/Suburb(i)an/Resolution/Resolution.md",
+    "SCP Foundation Wiki/Catalogue/Suburb(i)an/Resolution",
+    "SCP Foundation Wiki/\"None／Nothing (To Be Afraid (Of)) That I Know Of\"; Westward Entryway; East-way (Spiral)/Body.md",
+    "SCP Foundation Wiki/\"None／Nothing (To Be Afraid (Of)) That I Know Of\"; Westward Entryway; East-way (Spiral)/Summary.md",
+    "SCP Foundation Wiki/\"None／Nothing (To Be Afraid (Of)) That I Know Of\"; Westward Entryway; East-way (Spiral)/Untitled.md",
+    "SCP Foundation Wiki/\"None／Nothing (To Be Afraid (Of)) That I Know Of\"; Westward Entryway; East-way (Spiral)/Perfect Setting (Foundation) - Instance - The Bird & The Crow.md",
+    "SCP Foundation Wiki/\"None／Nothing (To Be Afraid (Of)) That I Know Of\"; Westward Entryway; East-way (Spiral)/\"None／Nothing (To Be Afraid (Of)) That I Know Of\"; Westward Entryway; East-way (Spiral).md",
+    "SCP Foundation Wiki/This Goes With You/This Goes With You.md",
+    "SCP Foundation Wiki/\"Go to hell.\"/\"Go to hell.\".md",
+    "SCP Foundation Wiki/\"None／Nothing (To Be Afraid (Of)) That I Know Of\"; Westward Entryway; East-way (Spiral)/\"I Need To See You Again\"/\"I Need To See You Again\".md",
+    "SCP Foundation Wiki/\"None／Nothing (To Be Afraid (Of)) That I Know Of\"; Westward Entryway; East-way (Spiral)/Eastway (Central)/Eastway (Central).md",
+    "SCP Foundation Wiki/\"Be afraid.\"",
+    "SCP Foundation Wiki/Objects of Attention",
+    "SCP Foundation Wiki/Death of (The) Author",
+    "SCP Foundation Wiki/Blackout Comedy",
+    "SCP Foundation Wiki/More Time",
+    "SCP Foundation Wiki/\"Go to hell.\"",
+    "A/Part Falling",
+    "A"
+  ]
+}

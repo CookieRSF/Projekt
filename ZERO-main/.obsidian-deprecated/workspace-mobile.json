@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "2fbf5cd9116e2fe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b47c27dc1c28a2c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19f30f45fb7abfbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/Ultimate Reality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ultimate Reality"
+            }
+          },
+          {
+            "id": "c994f30494c8d4cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『The Will of God』/Final Rapture/The Unborn/0. SINGULARITY/0. SINGULARITY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. SINGULARITY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93665989b6767d68",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b863b94e41e30d6d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "12863e48e5d293ba",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "nayuta",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "491c73973e1d842c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d543e01fdb0e104b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "e071fa492e84a3d9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "8a472a00427c9b01",
+        "type": "leaf",
+        "state": {
+          "type": "trash-explorer",
+          "state": {},
+          "icon": "trash",
+          "title": "Trash explorer"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "fc13efa885345808",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7ed3db3a2c0c68ea",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Weeping Sea/Weeping Sea.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e78ddf9023994cee",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "PUSH ー SINGULARITY.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "06d89258b56b6381",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "【ENGLISH MEDIA】/PUSH ー SINGULARITY/NEVERBORN × EVERBORN 『NV／EV』/MEMORY/RIDDLE/RIDDLE.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-trash-explorer:Open trash explorer": false
+    }
+  },
+  "active": "12863e48e5d293ba",
+  "lastOpenFiles": [
+    "0. ARCHIVE/Character Ideas.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/Ultimate Reality.md",
+    "Untitled.base",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/1. Hypercross：One/A GIRL NAMED DAISY ＆ HER MONSTER/A GIRL NAMED DAISY ＆ HER MONSTER.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/0.  Hypercross：Zero.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/1. Hypercross：One/1. Hypercross：One.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Publishers.md",
+    "0. ARCHIVE/0. ARCHIVE.md",
+    "日本語（1st Archive）/日本語（1st Archive）.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Push ー Singularity/Push ー Singularity.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/0. MEMORY.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/NEVERBORN × EVERBORN 『NV／EV』/1. REALITY/1. REALITY.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/NEVERBORN × EVERBORN 『NV／EV』/NEVERBORN × EVERBORN 『NV／EV』.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/Ultrakill/0. ULTRAKILL：ZERO/0. ULTRAKILL：ZERO.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Push ー Singularity/Dictionary/Dictionary.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/1. Hypercross：One/STELLAR MEDIA/STAR ENTERTAINMENT (ONE)/STAR ENTERTAINMENT (ONE).md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Push ー Singularity/0. Limbo Girl/0. Limbo/1. Eternity/1. Eternity.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Push ー Singularity/0. Limbo Girl/1. Inversion/1. Inversion.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Push ー Singularity/0. Limbo Girl/0. Limbo/0. Limbo.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Push ー Singularity/0. Limbo Girl/0. Limbo Girl.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Joel Guerra/Ena/4. Dream BBQ/Chapter 1：The Lonely Door.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Joel Guerra/Ena/4. Dream BBQ/Chapter 0.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Joel Guerra/Ena/4. Dream BBQ/4. Dream BBQ.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Fiction.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/Friday Night Funkin'/Friday Night Funkin'.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』/1. THE ARRIVAL OF GOD/1. REVELATIONS/The Horsemen of the Apocalypse",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』/1. THE ARRIVAL OF GOD/1. REVELATIONS/THE HORSEMEN OF THE APOCALYPSE",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』/1. THE ARRIVAL OF GOD/1. REVELATIONS/The Horsemen Of The Apocalypsee",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』/1. THE ARRIVAL OF GOD/1. REVELATIONS/Armageddon",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』/1. THE ARRIVAL OF GOD/1. REVELATIONS/ARMAGEDDON",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』/1. THE ARRIVAL OF GOD/1. REVELATIONS/Armageddonn",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』/1. THE ARRIVAL OF GOD/1. REVELATIONS",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』/1. THE ARRIVAL OF GOD/1. Revelations/THE HORSEMEN OF THE APOCALYPSE",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/Ultimate Reality/『Anarchy King』/1. THE ARRIVAL OF GOD/1. Revelations/ARMAGEDDON",
+    "Untitled.canvas"
+  ]
+}

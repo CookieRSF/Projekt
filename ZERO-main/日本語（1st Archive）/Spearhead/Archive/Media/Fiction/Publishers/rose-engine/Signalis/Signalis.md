@@ -1,0 +1,11 @@
+---
+aliases:
+  - シグナーリス
+---
+- [[0. Signalis：Zero]]
+- [[1. Signalis：One]]
+- [[9 Million Cycles（Signalis）]]
+- [[Unauthorized Reproduction（Signalis）]]
+- [[Hyper-Signalis]]
+- [[Ultra−Signalis (B）]]
+- [[Neutralis（Signalis）]]

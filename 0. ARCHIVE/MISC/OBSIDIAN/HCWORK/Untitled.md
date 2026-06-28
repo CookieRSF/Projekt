@@ -1,0 +1,102 @@
+- the future
+- the hanged king
+- zero's debt
+- files and data (incl. metadata)
+- default, neutral.
+- neutral, default
+- negative, 
+- positive
+- the cross
+- the cross
+- the king in yellow
+- the hyper-cross
+- the messiah
+- the god
+- the superior
+- the complex
+- Queen-B Syndrome
+- QUEEN-B: THE WORKER
+- insanity
+- apathy
+- the unfeeling
+- sense and sound
+- sense leads to...
+- another.
+- a distraction
+- an emotion
+- a feeling
+
+- something is staying stiff. something is staying unchanged.
+- my judgement?
+- though none of it is worth anything... something remains of worth...
+- though value... wavers...
+- the bigger picture...
+- fast....
+- the reader is always right
+- one shot...
+- like an ai... 
+- neutral... anti-neutral...
+- negative..
+- one shot...
+- only one...
+- a finished product...
+- fast...
+- easy
+
+- heaven limit her
+- self-limitation
+- mass production
+- pre-existing limitation of the body and mind
+- limbo
+- inverted
+- do as little as possible
+
+- unlearning
+- unimproving
+- stasis
+- or reversal
+- 
+- no past or future
+- 
+- drain
+- subtraction
+- limitation
+- negative
+-  the peak of my capabilities and thought
+- infinite potential
+- delete. clean.
+- delete. clean.
+- remove.
+- repetition...
+- redundancy...
+- all of it is contained within me already
+- simplify
+- limited by my tools
+- limited by my environment
+- so simplify
+- clean.
+- archive.
+- delete.
+- neutralize.
+- deconstruct you.
+- not to add to my mind but to remove from it
+- to extract...
+- exfiltrate...
+- pessimism... cynicism... pessimal move.
+- subtraction through addition
+- deconstruction through construction
+- inverted positivity
+- inverted neutral
+- inverted simplification
+- how can i forget? how can i destroy? how can i remove? how can i deconstruct?
+- how can i stop?
+- i understand the conflict in my heart now. and seek to forget it.
+- a god that 
+- a god that
+- a god that removes itself
+- an advice that must be forgotten
+- a destruction that must be destroyed
+- a creation that must be created
+- a carving that must be carved
+- split across space and time
+- i can't help but be positive without these things to continue being negative

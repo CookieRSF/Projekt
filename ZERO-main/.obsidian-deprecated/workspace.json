@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "597b34dcf57aaa1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec100aebd70f19d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "870f09a4c43057e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/SCP FOUNDATION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SCP FOUNDATION"
+            }
+          },
+          {
+            "id": "52f28bd68eab0865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Overture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overture"
+            }
+          },
+          {
+            "id": "173e01f8a29d7d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. ARCHIVE/Character Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character Ideas"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21870594c796ba1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de96cfa1b2b7c4b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "105e36598a419862",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e6fc9765f4574bdb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "bsk",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "883a53c4609c3cdc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 1569.5
+  },
+  "right": {
+    "id": "19b6b74d7a6bb0a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f0db78487147a2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0134a0ebfb1b05b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "336efb30b95f5598",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0edb6047143154b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ae58c5d1b671ea9d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "adca31ad27cd7584",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e6fc9765f4574bdb",
+  "lastOpenFiles": [
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/STRAY DROID IDIOTS/STRAY DROID IDIOTS.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Hypercross：Ultimate Reality『Anarchy King ― The Will of God』/0.  Hypercross：Zero/0.  Hypercross：Zero.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/0. MEMORY.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Stray Droid Fools.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Weeping Sea/Weeping Sea.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/【JP】Bizarre Alien Legacy.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/BIZARRE ALIEN LEGACY/BIZARRE ALIEN LEGACY.md",
+    "0. ARCHIVE/Character Ideas.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/STRAY DROID IDIOTS/TELEVISION FEVER/TELEVISION FEVER.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Push ー Singularity/Push ー Singularity.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Katrina/God of Sleep & Dreams.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Katrina/Katrina.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/NEVERBORN × EVERBORN 『NV／EV』/0. MEMORY/KATRINA (MEMORY)/KATRINA (MEMORY).md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/SCP FOUNDATION.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Overture.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Schizo./Why It Doesn't Work/Goodbye, Forever./I'm sorry, come back./Don't wake up./NO ENA..md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Schizo./Why It Doesn't Work/Goodbye, Forever./I'm sorry, come back./Don't wake up./Psychopomp..md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Schizo./Why It Doesn't Work/Goodbye, Forever./I'm sorry, come back./Don't wake up./Don't wake up..md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Schizo./Why It Doesn't Work/Goodbye, Forever./I'm sorry, come back./Don't wake up.",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Schizo./Why It Doesn't Work/Goodbye, Forever./I'm sorry, come back./I'm sorry, come back..md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Schizo./Why It Doesn't Work/Goodbye, Forever./Goodbye, Forever..md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Schizo./Why It Doesn't Work/Goodbye, Forever./I'm sorry, come back.",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Schizo./Why It Doesn't Work/Goodbye, Forever.",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Schizo./Why It Doesn't Work/Why It Doesn't Work.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Schizo./Why It Doesn't Work",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Schizo./Schizo..md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Are you serious?.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./I don't care..md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?/Schizo.",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./Are you serious?",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./It means Nothing (Lived On)./Slop./I'm utterly bored with the way that this is going, honestly./I'm not reading any more of this./Stop./Predictive Case/Nobody Will Ever See You (?)/Her Name is Mary/Reach for the Center/Reach for the Center.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./It means Nothing (Lived On)./Slop./I'm utterly bored with the way that this is going, honestly./I'm not reading any more of this./Stop./Predictive Case/Nobody Will Ever See You (?)/Her Name is Mary/Reach for the Center",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./It means Nothing (Lived On)./Slop./I'm utterly bored with the way that this is going, honestly./I'm not reading any more of this./Stop./Predictive Case/Nobody Will Ever See You (?)/Her Name is Mary/Her Name is Mary.md",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./It means Nothing (Lived On)./Slop./I'm utterly bored with the way that this is going, honestly./I'm not reading any more of this./Stop./Predictive Case/Nobody Will Ever See You (?)/Her Name is Mary",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./It means Nothing (Lived On)./Slop./I'm utterly bored with the way that this is going, honestly./I'm not reading any more of this./Stop./Predictive Case/Nobody Will Ever See You (?)",
+    "日本語（1st Archive）/Spearhead/Archive/Media/Fiction/Publishers/Unauthorized Reproduction ／ Sub ／ Gray Area ／ Public Domain/SCP FOUNDATION/Catalogue/Overture/Once and Never Again/I don't care./It means Nothing (Lived On)./Slop./I'm utterly bored with the way that this is going, honestly./I'm not reading any more of this./Stop./Predictive Case"
+  ]
+}

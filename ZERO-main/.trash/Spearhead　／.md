@@ -1,0 +1,14 @@
+---
+aliases:
+  - スピアヘッド
+---
+- Corporation　／　コーポレーション
+- Software　／　ソフトウェア
+- Project　／　プロジェクト
+- Industries　／　インダストリーズ
+- Character　／　キャラクター
+- [[Media　／　メディア]]
+- [[Singularity　／　特異点]]
+- [[Fiction　／　フィクション]]
+- [[Archive　／　アーカイブ]]
+- [[Internet　／　インターネット]]
