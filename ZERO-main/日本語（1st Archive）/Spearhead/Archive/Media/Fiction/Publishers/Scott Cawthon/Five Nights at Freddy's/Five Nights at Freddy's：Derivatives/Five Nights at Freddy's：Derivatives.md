@@ -6,3 +6,4 @@ aliases:
 [[Five Nights at Candy's]]
 [[Popgoes]]
 [[Springtrap & Mangle]]
+[[The Glitched Attraction]]
