@@ -7,3 +7,8 @@ catatonic
 catatonia
 schizophrenia
 666
+Psychopomp: GOLD
+song of
+cra'thran
+KZ-tIqwgrsI
+i know it to be true.
