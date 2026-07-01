@@ -18,3 +18,4 @@ hg
 nh
 sz
 jn
+sy
