@@ -12,3 +12,9 @@ song of
 cra'thran
 KZ-tIqwgrsI
 i know it to be true.
+ch
+ccc
+hg
+nh
+sz
+jn
