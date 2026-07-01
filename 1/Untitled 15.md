@@ -22,3 +22,10 @@ sy
 xo
 fg
 bsx
+lip bite
+tongue out
+saliva
+s
+finger bite
+swallow
+...
