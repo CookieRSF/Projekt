@@ -56,3 +56,6 @@ and carisa of carcosa
 you've found what makes you
 [?]
 i am
+the crimson
+the superficial
+we know it to be true
