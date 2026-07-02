@@ -38,3 +38,7 @@ not human!!
 bleeding
 i
 the amazing digital footprint
+hyper-real
+prophet of reality
+prophet of prophecy
+one and only
