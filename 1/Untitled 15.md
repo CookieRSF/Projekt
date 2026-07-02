@@ -44,3 +44,7 @@ prophet of prophecy
 one and only
 the
 from these nothing emerged
+lick
+friend
+therefore you and me
+supersession
