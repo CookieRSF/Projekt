@@ -49,3 +49,5 @@ friend
 therefore you and me
 supersession
 repulsion & breaking
+in my womb
+i the fetus and the mother
