@@ -43,3 +43,4 @@ prophet of reality
 prophet of prophecy
 one and only
 the
+from these nothing emerged
