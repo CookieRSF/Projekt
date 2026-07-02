@@ -48,3 +48,4 @@ lick
 friend
 therefore you and me
 supersession
+repulsion & breaking
