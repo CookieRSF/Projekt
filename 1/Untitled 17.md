@@ -17,3 +17,5 @@ Oh, you know it!
 Seems I can only do good!
 Drains too much energy, though!
 Were there only some way to "recharge"...?
+tear
+slice
