@@ -24,3 +24,5 @@ pretending to be the person you once knew just to keep you in check
 i see
 this is my dedication towards the light
 and consecration towards the sun
+It's always worse than you remember.
+It's always better than what you remembered.
