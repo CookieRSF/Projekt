@@ -26,3 +26,5 @@ this is my dedication towards the light
 and consecration towards the sun
 It's always worse than you remember.
 It's always better than what you remembered.
+You will no longer receive the amicable responses nor reception you had previously received.
+no longer what you previously
