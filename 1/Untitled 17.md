@@ -32,3 +32,5 @@ Raise up your bat!
 substrata
 JNA
 No compliments
+Black Knife
+The Roaring Knight
