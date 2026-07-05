@@ -34,3 +34,6 @@ JNA
 No compliments
 Black Knife
 The Roaring Knight
+Solus
+What I've Been Doing
+This is the last.
