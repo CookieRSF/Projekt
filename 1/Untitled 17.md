@@ -37,3 +37,4 @@ The Roaring Knight
 Solus
 What I've Been Doing
 This is the last.
+The corner of the page that rips your skin [clean/dirty].
