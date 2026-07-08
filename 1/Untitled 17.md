@@ -38,3 +38,6 @@ Solus
 What I've Been Doing
 This is the last.
 The corner of the page that rips your skin [clean/dirty].
+I've only known the taste of victory... but this taste...
+Is... Is this my blood?
+I've never know such... such... relief?
