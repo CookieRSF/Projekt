@@ -1,3 +1,3 @@
 Oh, you know! You know.
-Splinter, Splitter, Scatter
+Splinter, Splitter, Splatter, Scatter
 Oh, you know. You know!
