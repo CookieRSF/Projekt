@@ -6,3 +6,4 @@ C
 Tasque Manager
 Stray Ant
 Queen B
+Retaining you for the Prophecy
