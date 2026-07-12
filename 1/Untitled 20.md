@@ -19,3 +19,9 @@ v
 FRIEND
 g
 l
+
+Frieren
+W
+Every
+Limit
+Infinite
