@@ -25,3 +25,4 @@ W
 Every
 Limit
 Infinite
+G
