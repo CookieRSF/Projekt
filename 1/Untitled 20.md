@@ -30,3 +30,5 @@ G
 T
 O
 
+I like seeing my friends happy!
+It makes me happy!
