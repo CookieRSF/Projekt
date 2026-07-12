@@ -32,3 +32,5 @@ O
 
 I like seeing my friends happy!
 It makes me happy!
+I know what must be done.
+I know it to be true.
