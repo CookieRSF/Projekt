@@ -38,3 +38,6 @@ We know it to be true.
 D
 gone wrong
 roulette
+left home due to happiness
+where is the VALUE?
+never coming back!
