@@ -41,3 +41,7 @@ roulette
 left home due to happiness
 where is the VALUE?
 never coming back!
+c
+a
+w
+???
