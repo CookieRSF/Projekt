@@ -52,3 +52,7 @@ sometimes i forget my capacity to be happy
 holding back everything
 A girl who thinks she's better than you. A girl who loves herself. And who but me could you next be? Could you love her? Could you love me?
 It's only me.
+i'll be broken eventually
+metamorphosed
+fixed
+wired
