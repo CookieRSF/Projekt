@@ -77,3 +77,5 @@ nor held any financial savings or deposits outside of
 gifts within red cards
 that i store within my drawers
 or in the little zip-lock compartment within the bag that holds my guitar
+
+were i only disabled
