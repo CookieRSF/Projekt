@@ -25,7 +25,7 @@ aliases:
 - [[All Tomorrows]]
 - [[Berserk]]
 - [[The Lord of the Rings]]
-- [[The Hobbit or There and Back Again]]
+- [[The Hobbit, or There and Back Again]]
 - [[Newgrounds]]
 - [[Valve Corporation]]
 - [[Edgar Allan Poe]]
