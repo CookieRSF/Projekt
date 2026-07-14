@@ -49,3 +49,4 @@ n
 the old me is dying
 and the new me
 sometimes i forget my capacity to be happy
+holding back everything
