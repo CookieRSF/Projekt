@@ -57,3 +57,4 @@ metamorphosed
 fixed
 wired
 dess
+In my dreams, I'm an innocent girl who gets taken care of by normal people, good people, lovely people.
