@@ -79,3 +79,6 @@ that i store within my drawers
 or in the little zip-lock compartment within the bag that holds my guitar
 
 were i only disabled
+I at the center
+I, the singularity.
+One and only.
