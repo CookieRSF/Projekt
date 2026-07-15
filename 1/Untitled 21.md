@@ -93,3 +93,14 @@ god
 god
 gdogd
 the world is happy
+the only one unsatisfied is me
+who am i acting for?
+doing for?
+making for?
+the mother has no mother
+the egg has no e
+the 
+the antecedent has no antecedent
+the origin has no origin
+the womb has no womb
+the birth has no birth
