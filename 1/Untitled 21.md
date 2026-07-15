@@ -84,3 +84,11 @@ I, the singularity.
 One and only.
 Superposition.
 
+god
+god
+god
+god
+god
+god
+god
+gdogd
