@@ -109,3 +109,12 @@ and then i remember
 and then i forget
 i'm just a mother
 i'm just a child
+rot
+mold
+mildew
+mycelium
+fungus
+bacteria
+pathogen
+fluid
+death
