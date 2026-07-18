@@ -12,3 +12,20 @@ a girl's dream
 i've found myself now without fear
 i've opened a dark fountain
 whimpering
+hollow
+angel
+no
+sense
+no
+thought
+no
+feeling
+no
+interior
+tool
+aphrodisiac
+nymphomania
+hypersexual
+mindbreak
+apathy
+aphrodisiomania
