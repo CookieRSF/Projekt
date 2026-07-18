@@ -34,3 +34,6 @@ mother angel carrie me
 re
 e
 i am everything
+god complex
+messiah complex
+god god god god
