@@ -38,3 +38,4 @@ god complex
 messiah complex
 god god god god
 i know exactly why
+despair is intoxicating
