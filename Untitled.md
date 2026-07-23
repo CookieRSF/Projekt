@@ -117,3 +117,6 @@ It's me, your best friend.
 ugly me!
 life as an awful gal!
 femk
+We need to create the chain.
+All is purposeless except the chain.
+All is for nought except the chain.
