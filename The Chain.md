@@ -1,3 +1,3 @@
 Ascend to heaven.
 This Rehearsal
-Chain \[of hell\[?\]\]
+Chain \[of Hell\[?\]\]
